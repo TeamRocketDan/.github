@@ -15,16 +15,16 @@
 (예상 기술 스택: websocket, NoSQL, RebbitMQ 등)
 - 본인의 피드를 정리하는 페이지를 통해 여행에서 느꼈던 행복한 추억을 공유하고 저장할 수 있습니다.(그리고 본인이 갔던 지역을 지도로 대략적으로 보여주어 자주 갔던 여행지를 파악할 수도 있습니다.)
 
-## 🗄[로켓단의 한국정복 API 명세서](https://nebula-catboat-ea3.notion.site/API-f8e38669f5ff4a1ca76c02379a44413a)
+## 🗄 [로켓단의 한국정복 API 명세서](https://nebula-catboat-ea3.notion.site/API-f8e38669f5ff4a1ca76c02379a44413a)
 
-## 🖌[로켓단의 한국정복 피그마](https://www.figma.com/file/SMJ8qB7DGRhI7SmovOpD3c/%EB%A1%9C%EC%BC%93%EB%8B%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=1%3A206)
+## 🖌 [로켓단의 한국정복 피그마](https://www.figma.com/file/SMJ8qB7DGRhI7SmovOpD3c/%EB%A1%9C%EC%BC%93%EB%8B%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=1%3A206)
 
-## 💾[로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
+## 💾 [로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
 
-## 🧱로켓단의 한국정복 구성도
+## 🧱 로켓단의 한국정복 구성도
 ![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201728725-6611c514-e1a5-4d78-9060-8965be25fd1c.png)
 
 
-## ⚒로켓단의 한국정복 기술 스택
+## ⚒ 로켓단의 한국정복 기술 스택
 ![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png)
 
