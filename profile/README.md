@@ -28,7 +28,8 @@
 ## [로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
 
 ## 로켓단의 한국정복 구성도
-![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201728258-27f0ca19-09c8-49da-9799-daf2cf0bde04.png)
+![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201728725-6611c514-e1a5-4d78-9060-8965be25fd1c.png)
+
 
 ## 로켓단의 한국정복 기술 스택
 ![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png)
