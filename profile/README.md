@@ -21,16 +21,16 @@
 - 지역별로 분류된 피드를 통해서 대략적인 여행 정보를 얻을 수 있고 본인의 여행 계획을 세우는데 도움을 줄 수 있을 것입니다.
 - SNS 서비스를 통해 새로운 인연을 도모하는데 도움을 줄 수 있을 것입니다.
 
-## [로켓단의 한국정복 API 명세서](https://nebula-catboat-ea3.notion.site/API-f8e38669f5ff4a1ca76c02379a44413a)
+## 🗄[로켓단의 한국정복 API 명세서](https://nebula-catboat-ea3.notion.site/API-f8e38669f5ff4a1ca76c02379a44413a)
 
-## [로켓단의 한국정복 피그마](https://www.figma.com/file/SMJ8qB7DGRhI7SmovOpD3c/%EB%A1%9C%EC%BC%93%EB%8B%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=1%3A206)
+## 🖌[로켓단의 한국정복 피그마](https://www.figma.com/file/SMJ8qB7DGRhI7SmovOpD3c/%EB%A1%9C%EC%BC%93%EB%8B%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=1%3A206)
 
-## [로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
+## 💾[로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
 
-## 로켓단의 한국정복 구성도
+## 🧱로켓단의 한국정복 구성도
 ![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201728725-6611c514-e1a5-4d78-9060-8965be25fd1c.png)
 
 
-## 로켓단의 한국정복 기술 스택
+## ⚒로켓단의 한국정복 기술 스택
 ![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png)
 
