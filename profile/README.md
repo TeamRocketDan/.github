@@ -1,4 +1,4 @@
-# 🚀  로켓단의 한국정복 (메인서버)
+# 🚀  로켓단의 한국정복
 -   소셜로그인, FEED 전체 보기, FEED 상세 보기, 나의 피드 관리 및 지역과 일정을 기반으로 한 실시간 채팅 기능을 제공하는 여행을 테마로 한 새로운 SNS 서비스를 제공합니다.
 
 ## **💪 기획 배경**
@@ -23,9 +23,9 @@
 
 ## [로켓단의 한국정복 API 명세서](https://nebula-catboat-ea3.notion.site/API-f8e38669f5ff4a1ca76c02379a44413a)
 
-## [로켓단의 한국정복 피그마](https://www.figma.com/file/SMJ8qB7DGRhI7SmovOpD3c/%EB%A1%9C%EC%BC%93%EB%8B%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=1%3A206).
+## [로켓단의 한국정복 피그마](https://www.figma.com/file/SMJ8qB7DGRhI7SmovOpD3c/%EB%A1%9C%EC%BC%93%EB%8B%A8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=1%3A206)
 
-## [로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB).
+## [로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
 
 ## 로켓단의 한국정복 구성도
 ![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201720670-b2ed40b8-da11-4f89-833b-fd8573a47676.png)
