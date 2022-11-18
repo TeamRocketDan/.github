@@ -25,7 +25,9 @@
     <img src="https://img.shields.io/badge/React%20Router-CA4245?&style=flat-square&logo=reactRouter&logoColor=white">
     <img src="https://img.shields.io/badge/Socket-333333?&style=flat-square&logo=socket.io&logoColor=white">
 </div>
-![image](https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor)
+<img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor">
+<div>
+</div>
 </section>
 
 ## **💪 기획 배경**
