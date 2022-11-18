@@ -1,5 +1,32 @@
 # 🚀  로켓단의 한국정복
-- 피드를 통한 추억 기록과 실시간 채팅 기능을 활용한 새로운 여행 SNS 서비스를 제공합니다. 
+- 피드를 통한 추억 기록과 실시간 채팅 기능을 활용한 새로운 여행 SNS 서비스를 제공합니다.
+
+
+## **💪 팀원 소개**
+![image](https://img.shields.io/badge/FRONTEND-yellow?style=for-the-badge) 
+![image](https://img.shields.io/badge/%EA%B9%80%EA%B0%80%EB%B9%88-F5463D?style=for-the-badge&logo=Revolut&logoColor=white)
+![image](https://img.shields.io/badge/%EA%B9%80%EC%9C%A0%EB%AF%BC-F5463D?style=for-the-badge&logo=Revolut&logoColor=white) 
+
+![image](https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor)
+![image](https://img.shields.io/badge/%EC%9C%A0%ED%98%95%EC%A7%84-af2afc?style=for-the-badge&logo=Revolut&logoColor=white)
+![image](https://img.shields.io/badge/%EA%B9%80%EC%9A%B0%EC%A7%84-af2afc?style=for-the-badge&logo=Revolut&logoColor=white)
+![image](https://img.shields.io/badge/%EB%B0%95%EA%B7%80%EC%9A%B0-af2afc?style=for-the-badge&logo=Revolut&logoColor=white)
+![image](https://img.shields.io/badge/%ED%95%9C%EA%B7%9C%EB%B9%88-af2afc?style=for-the-badge&logo=Revolut&logoColor=white) 
+</br>
+
+## **🌈 Things Code With**
+<section>
+<img src="https://img.shields.io/badge/FRONTEND-yellow?style=for-the-badge">
+<div>
+    <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/TailwindCss-61DAFB?&style=flat-square&logo=tailwindCss&logoColor=white">
+    <img src="https://img.shields.io/badge/StyledComponent-DB7093?&style=flat-square&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-0088CC?&style=flat-square&logo=reactOs&logoColor=white">
+    <img src="https://img.shields.io/badge/React%20Router-CA4245?&style=flat-square&logo=reactRouter&logoColor=white">
+    <img src="https://img.shields.io/badge/Socket-333333?&style=flat-square&logo=socket.io&logoColor=white">
+</div>
+![image](https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor)
+</section>
 
 ## **💪 기획 배경**
 - 먼저 각자 구현 및 사용해 보고 싶었던 기능 및 기술을 취합해보았습니다.
@@ -46,15 +73,4 @@
 
 ## ⚒ 로켓단의 한국정복 기술 스택
 ![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png)
-
-## **💪 팀원 소개**
-![image](https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor)
-![image](https://img.shields.io/badge/%EC%9C%A0%ED%98%95%EC%A7%84-9cf?style=for-the-badge) 
-![image](https://img.shields.io/badge/%EA%B9%80%EC%9A%B0%EC%A7%84-9cf?style=for-the-badge) 
-![image](https://img.shields.io/badge/%EB%B0%95%EA%B7%80%EC%9A%B0-9cf?style=for-the-badge) 
-![image](https://img.shields.io/badge/%ED%95%9C%EA%B7%9C%EB%B9%88-9cf?style=for-the-badge) 
-
-![image](https://img.shields.io/badge/FRONTEND-yellow?style=for-the-badge) 
-![image](https://img.shields.io/badge/%EA%B9%80%EA%B0%80%EB%B9%88-9cf?style=for-the-badge)
-![image](https://img.shields.io/badge/%EA%B9%80%EC%9C%A0%EB%AF%BC-9cf?style=for-the-badge) 
 
