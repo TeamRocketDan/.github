@@ -3,16 +3,63 @@
 
 
 ## **💪 팀원 소개**
-![image](https://img.shields.io/badge/FRONTEND-yellow?style=for-the-badge) 
-![image](https://img.shields.io/badge/%EA%B9%80%EA%B0%80%EB%B9%88-F5463D?style=for-the-badge&logo=Revolut&logoColor=white)
-![image](https://img.shields.io/badge/%EA%B9%80%EC%9C%A0%EB%AF%BC-F5463D?style=for-the-badge&logo=Revolut&logoColor=white) 
-
-![image](https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor)
-![image](https://img.shields.io/badge/%EC%9C%A0%ED%98%95%EC%A7%84-af2afc?style=for-the-badge&logo=Revolut&logoColor=white)
-![image](https://img.shields.io/badge/%EA%B9%80%EC%9A%B0%EC%A7%84-af2afc?style=for-the-badge&logo=Revolut&logoColor=white)
-![image](https://img.shields.io/badge/%EB%B0%95%EA%B7%80%EC%9A%B0-af2afc?style=for-the-badge&logo=Revolut&logoColor=white)
-![image](https://img.shields.io/badge/%ED%95%9C%EA%B7%9C%EB%B9%88-af2afc?style=for-the-badge&logo=Revolut&logoColor=white) 
+<section>
+<img src="https://img.shields.io/badge/FRONTEND-yellow?style=for-the-badge">
+<ul>
+    <li>
+       <div>
+           <text>김가빈</text> 
+           <a href="https://github.com/kabinny">
+                <text>깃허브</text>
+            </a>
+        </div>
+    </li>
+    <li>
+        <div>
+           <text>김유민</text> 
+           <a href="https://github.com/devYuMinKim">
+                <text>깃허브</text>
+            </a>
+        </div>
+    </li>
+</ul>
+<img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor">
+<ul>
+    <li>
+       <div>
+           <text>유형진</text> 
+           <a href="https://github.com/tkdlqh2">
+                <text>깃허브</text>
+            </a>
+        </div>
+    </li>
+    <li>
+        <div>
+           <text>김우진</text> 
+           <a href="https://github.com/amyyzzin">
+                <text>깃허브</text>
+            </a>
+        </div>
+    </li>
+        <li>
+        <div>
+           <text>박귀우</text> 
+           <a href="https://github.com/Guiwoo">
+                <text>깃허브</text>
+            </a>
+        </div>
+    </li>
+        <li>
+        <div>
+           <text>한규빈</text> 
+           <a href="https://github.com/Gyubin0302">
+                <text>깃허브</text>
+            </a>
+        </div>
+    </li>
+</ul>
 </br>
+</section>
 
 ## **🌈 Things We Code With**
 <section>
@@ -29,7 +76,6 @@
     <img src="https://img.shields.io/badge/Socket-333333?&style=flat-square&logo=socket.io&logoColor=white">
     <img src="https://img.shields.io/badge/Font%20Awesome-528DD7?&style=flat-square&logo=fontAwesome&logoColor=white">
 </div>
-</br>
     <h3>BackEnd</h3>
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=coffeeScript&logoColor=white">
@@ -44,14 +90,12 @@
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-sqaure&logo=rabbitMq&logoColor=white">
     <img src="https://img.shields.io/badge/Stomp-3b5c6b?style=flat-sqaure&logo=Lospec&logoColor=white">
 </div>
-</br>
 <h3>DataBase</h3>
 <div>
     <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-sqaure&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-sqaure&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=flat-sqaure&logo=mongoDb&logoColor=white">
 </div>
-</br>
 <h3>Production</h3>
 <div>
     <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-sqaure&logo=amazonAWS&logoColor=white">
@@ -64,8 +108,10 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-sqaure&logo=mongoDb&logoColor=white">
 </div>
-</br>
 </section>
+
+## 🧱 로켓단의 한국정복 구성도
+![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201728725-6611c514-e1a5-4d78-9060-8965be25fd1c.png)
 
 ## **💪 기획 배경**
 - 먼저 각자 구현 및 사용해 보고 싶었던 기능 및 기술을 취합해보았습니다.
@@ -106,10 +152,7 @@
 
 ## 💾 [로켓단의 한국정복 ERD](https://www.erdcloud.com/d/mBqzY3pZMaAueigMB)
 
-## 🧱 로켓단의 한국정복 구성도
-![teamrocket_flow](https://user-images.githubusercontent.com/67041069/201728725-6611c514-e1a5-4d78-9060-8965be25fd1c.png)
 
-
-## ⚒ 로켓단의 한국정복 기술 스택
-![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png)
+<!-- ## ⚒ 로켓단의 한국정복 기술 스택
+![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png) -->
 
