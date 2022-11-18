@@ -48,9 +48,13 @@
 ![teamrocket_stack](https://user-images.githubusercontent.com/67041069/201720679-cc43212e-969b-4577-9bd8-2bf195cd72ce.png)
 
 ## **💪 팀원 소개**
-- 유형진 : 
-- 김우진 : 
-- 한규빈 : 
-- 박귀우 : 
-- 김가빈 : 
-- 김유민 :  
+![image](https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor)
+![image](https://img.shields.io/badge/%EC%9C%A0%ED%98%95%EC%A7%84-9cf?style=for-the-badge) 
+![image](https://img.shields.io/badge/%EA%B9%80%EC%9A%B0%EC%A7%84-9cf?style=for-the-badge) 
+![image](https://img.shields.io/badge/%ED%95%9C%EA%B7%9C%EB%B9%88-9cf?style=for-the-badge) 
+![image](https://img.shields.io/badge/%EB%B0%95%EA%B7%80%EC%9A%B0-9cf?style=for-the-badge) 
+
+![image](https://img.shields.io/badge/FRONTEND-yellow?style=for-the-badge) 
+![image](https://img.shields.io/badge/%EA%B9%80%EA%B0%80%EB%B9%88-9cf?style=for-the-badge)
+![image](https://img.shields.io/badge/%EA%B9%80%EC%9C%A0%EB%AF%BC-9cf?style=for-the-badge) 
+
