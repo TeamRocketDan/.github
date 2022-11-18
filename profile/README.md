@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Recoil-0088CC?&style=flat-square&logo=reactOs&logoColor=white">
     <img src="https://img.shields.io/badge/React%20Router-CA4245?&style=flat-square&logo=reactRouter&logoColor=white">
     <img src="https://img.shields.io/badge/Socket-333333?&style=flat-square&logo=socket.io&logoColor=white">
+    <img src="https://img.shields.io/badge/Font%20Awesome-528DD7?&style=flat-square&logo=fontAwesome&logoColor=white">
 </div>
 </br>
 <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor">
