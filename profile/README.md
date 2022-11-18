@@ -20,11 +20,12 @@
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/TailwindCss-61DAFB?&style=flat-square&logo=tailwindCss&logoColor=white">
-    <img src="https://img.shields.io/badge/StyledComponent-DB7093?&style=flat-square&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/Styled%20Component-DB7093?&style=flat-square&logo=styled-components&logoColor=white">
     <img src="https://img.shields.io/badge/Recoil-0088CC?&style=flat-square&logo=reactOs&logoColor=white">
     <img src="https://img.shields.io/badge/React%20Router-CA4245?&style=flat-square&logo=reactRouter&logoColor=white">
     <img src="https://img.shields.io/badge/Socket-333333?&style=flat-square&logo=socket.io&logoColor=white">
 </div>
+</br>
 <img src="https://img.shields.io/badge/BACKEND-green?style=for-the-badge&logoColor">
 <div>
 </div>
