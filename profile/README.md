@@ -52,7 +52,7 @@
         <li>
         <div>
            <text>한규빈</text> 
-           <a href="https://github.com/Gyubin0302">
+           <a href="https://github.com/rbsks">
                 <text>깃허브</text>
             </a>
         </div>
